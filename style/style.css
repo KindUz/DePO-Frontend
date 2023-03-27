@@ -792,6 +792,7 @@ body {
   opacity: 0;
   visibility: hidden;
   transition: 0.5s ease-in-out;
+  z-index: 1000;
 }
 
 .popup.active {
